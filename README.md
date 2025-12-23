@@ -52,17 +52,17 @@ Fast-API/
 
 ## ⚙️ Installation Steps
 
-1️⃣ Clone the repository
+1️ Clone the repository
     bash
    git clone https://github.com/<your-username>/Fast-API.git
    cd Fast-API
-2️⃣ Create a virtual environment
+2️ Create a virtual environment
        python -m venv venv
-3️⃣ Activate the virtual environment
+3️ Activate the virtual environment
        venv\Scripts\activate
-4️⃣ Install dependencies
+4️ Install dependencies
        pip install -r requirements.txt
-▶️ Run the Application
+5 Run the Application
     The API will start at:
         http://127.0.0.1:8000
         uvicorn main:app --reload
