@@ -42,10 +42,15 @@ It is intended for **learning, experimentation, and demonstration purposes**.
 Fast-API/
 │
 ├── main.py # FastAPI application entry point
+
 ├── models.py # Pydantic models
+
 ├── database.py # Database connection
+
 ├── database_models.py # SQLAlchemy models
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation
 
 ---
