@@ -74,34 +74,47 @@ Fast-API/
 🧪 How to Test the API
 
 FastAPI provides built-in interactive documentation.
+
 Open your browser
+
 Go to:
+
 http://127.0.0.1:8000/docs
+
 Use Swagger UI to test API endpoints
 
 📌 Example API Endpoints
 
 GET /products → Fetch all products
+
 POST /products → Create a new product
+
 PUT /products/{id} → Update a product
+
 DELETE /products/{id} → Delete a product
 
 🧹 Dependencies Note
 
 This project is purely backend-focused.
+
 Node.js is NOT required
+
 If package.json they can be safely removed
 
 🧪 Testing (Future Enhancement)
 
 Automated tests can be added using:
+
 pytest
+
 httpx or fastapi.testclient
 
 🎨 Code Quality (Optional)
 
 For better formatting and linting:
+
 black – code formatter
+
 flake8 – linter
 
 📌 Conclusion
