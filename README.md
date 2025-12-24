@@ -56,16 +56,21 @@ Fast-API/
     bash
    git clone https://github.com/<preethimn9741-debug>/Fast-API.git
    cd Fast-API
+   
 2️ Create a virtual environment
        python -m venv venv
+       
 3️ Activate the virtual environment
        venv\Scripts\activate
+       
 4️ Install dependencies
        pip install -r requirements.txt
+       
 5 Run the Application
     The API will start at:
         http://127.0.0.1:8000
         uvicorn main:app --reload
+        
 🧪 How to Test the API
 FastAPI provides built-in interactive documentation.
 Open your browser
