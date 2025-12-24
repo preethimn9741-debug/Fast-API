@@ -21,7 +21,7 @@ It is intended for **learning, experimentation, and demonstration purposes**.
 ## 🛠 Tech Stack
 - **Language:** Python
 - **Backend Framework:** FastAPI
-- **Database:** SQLite
+- **Database:** PostgreSQL
 - **ORM:** SQLAlchemy
 - **Data Validation:** Pydantic
 - **API Documentation:** Swagger UI
