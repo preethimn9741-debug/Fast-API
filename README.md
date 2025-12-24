@@ -32,7 +32,7 @@ It is intended for **learning, experimentation, and demonstration purposes**.
 ## 🏗 Architecture Overview
 - FastAPI handles HTTP requests and responses
 - SQLAlchemy manages database operations
-- SQLite is used as the local database
+- PostgreSQL is used as the local database
 - Pydantic validates request and response schemas
 - Swagger UI provides interactive API documentation
 
@@ -54,7 +54,7 @@ Fast-API/
 
 1️ Clone the repository
     bash
-   git clone https://github.com/<your-username>/Fast-API.git
+   git clone https://github.com/<preethimn9741-debug>/Fast-API.git
    cd Fast-API
 2️ Create a virtual environment
        python -m venv venv
@@ -95,7 +95,7 @@ black – code formatter
 flake8 – linter
 
 📌 Conclusion
-This project is a learning-focused FastAPI backend that demonstrates how to build and run a CRUD API using Python and SQLite.
+This project is a learning-focused FastAPI backend that demonstrates how to build and run a CRUD API using Python and PostgreSQL.
 It is ideal for:
 Beginners learning FastAPI
 Backend practice
