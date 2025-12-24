@@ -1,4 +1,4 @@
-# FastAPI CRUD Backend
+# FastAPI 
 
 ## 📌 Project Overview
 This project is a **simple CRUD (Create, Read, Update, Delete) backend API** built using **FastAPI**.
