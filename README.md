@@ -82,7 +82,7 @@ DELETE /products/{id} → Delete a product
 🧹 Dependencies Note
 This project is purely backend-focused.
 Node.js is NOT required
-If package.json or package-lock.json exists, they can be safely removed
+If package.json they can be safely removed
 
 🧪 Testing (Future Enhancement)
 Automated tests can be added using:
