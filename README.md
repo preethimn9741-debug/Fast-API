@@ -1,6 +1,6 @@
 # FastAPI 
 
-## 📌 Project Overview
+## Project Overview
 This project is a **simple CRUD (Create, Read, Update, Delete) backend API** built using **FastAPI**.
 It is created as a **learning and practice project** to understand how to build REST APIs, connect to a database, and handle backend logic using Python.
 
@@ -9,7 +9,7 @@ It is intended for **learning, experimentation, and demonstration purposes**.
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 - Learn FastAPI fundamentals
 - Practice REST API development
 - Understand database integration using SQLAlchemy
@@ -18,7 +18,7 @@ It is intended for **learning, experimentation, and demonstration purposes**.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language:** Python
 - **Backend Framework:** FastAPI
 - **Database:** PostgreSQL
@@ -29,7 +29,7 @@ It is intended for **learning, experimentation, and demonstration purposes**.
 
 ---
 
-## 🏗 Architecture Overview
+## Architecture Overview
 - FastAPI handles HTTP requests and responses
 - SQLAlchemy manages database operations
 - PostgreSQL is used as the local database
@@ -38,7 +38,7 @@ It is intended for **learning, experimentation, and demonstration purposes**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Fast-API/
 │
 ├── main.py # FastAPI application entry point
@@ -55,7 +55,7 @@ Fast-API/
 
 ---
 
-## ⚙️ Installation Steps
+## Installation Steps
 
 1️ Clone the repository
     bash
@@ -76,7 +76,7 @@ Fast-API/
         http://127.0.0.1:8000
         uvicorn main:app --reload
         
-🧪 How to Test the API
+## How to Test the API
 
 FastAPI provides built-in interactive documentation.
 
@@ -88,7 +88,7 @@ http://127.0.0.1:8000/docs
 
 Use Swagger UI to test API endpoints
 
-📌 Example API Endpoints
+ ## Example API Endpoints
 
 GET /products → Fetch all products
 
@@ -98,7 +98,7 @@ PUT /products/{id} → Update a product
 
 DELETE /products/{id} → Delete a product
 
-🧹 Dependencies Note
+## Dependencies Note
 
 This project is purely backend-focused.
 
@@ -106,7 +106,7 @@ Node.js is NOT required
 
 If package.json they can be safely removed
 
-🧪 Testing (Future Enhancement)
+## Testing (Future Enhancement)
 
 Automated tests can be added using:
 
@@ -114,7 +114,7 @@ pytest
 
 httpx or fastapi.testclient
 
-🎨 Code Quality (Optional)
+## Code Quality (Optional)
 
 For better formatting and linting:
 
@@ -122,7 +122,7 @@ black – code formatter
 
 flake8 – linter
 
-📌 Conclusion
+## Conclusion
 
 This project is a learning-focused FastAPI backend that demonstrates how to build and run a CRUD API using Python and PostgreSQL.
 It is ideal for:
