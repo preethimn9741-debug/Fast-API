@@ -129,11 +129,12 @@ flake8 – linter
 
 ## Conclusion
 
-This project is a learning-focused FastAPI backend that demonstrates how to build and run a CRUD API using Python and PostgreSQL.
-It is ideal for:
+This project is a learning-focused FastAPI backend that demonstrates how to build and run a CRUD API using Python and PostgreSQL.It is ideal for:
 
 Beginners learning FastAPI
+
 Backend practice
+
 Interview demonstrations
 
 
