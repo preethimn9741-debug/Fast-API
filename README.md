@@ -40,7 +40,8 @@ It is intended for **learning, experimentation, and demonstration purposes**.
 
 ## Project Structure
 Fast-API/
-│
+
+
 ├── main.py # FastAPI application entry point
 
 ├── models.py # Pydantic models
@@ -53,7 +54,6 @@ Fast-API/
 
 └── README.md # Project documentation
 
----
 
 ## Installation Steps
 
