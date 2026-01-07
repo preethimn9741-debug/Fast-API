@@ -63,8 +63,7 @@ Fast-API/
    
 2️ Create a virtual environment
 
-     
-```python -m venv venv```
+    python -m venv venv
        
 3️ Activate the virtual environment
 
@@ -75,8 +74,11 @@ Fast-API/
        pip install -r requirements.txt
        
 5 Run the Application
+
     The API will start at:
+    
         http://127.0.0.1:8000
+        
         uvicorn main:app --reload
         
 ## How to Test the API
