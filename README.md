@@ -80,7 +80,12 @@ Fast-API/
         http://127.0.0.1:8000
         
         uvicorn main:app --reload
-        
+
+## Terminal screenshort 
+<img width="1085" height="320" alt="Screenshot 2026-01-08 151220" src="https://github.com/user-attachments/assets/8841ade0-752f-4af7-b4b6-90ee166fedf9" />
+
+<img width="1739" height="681" alt="Screenshot 2026-01-08 151516" src="https://github.com/user-attachments/assets/95ec3b90-c536-4852-a5ca-ce00685d1f27" />
+      
 ## How to Test the API
 
 FastAPI provides built-in interactive documentation.
